@@ -3,3 +3,8 @@
 !.env.example
 node_modules/
 .DS_Store
+__pycache__/
+*.pyc
+.venv/
+data/
+*.sqlite3*
